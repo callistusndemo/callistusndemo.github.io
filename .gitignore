@@ -13,6 +13,3 @@ _includes/notes_graph.json
 
 # Obsidian config
 .obsidian/
-
-# do not use netlify
-netlify.toml 
